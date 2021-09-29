@@ -49,6 +49,7 @@ namespace WinFormsControlLibrary.Main
             this.checkBox.TabIndex = 1;
             this.checkBox.Text = "checkBox";
             this.checkBox.UseVisualStyleBackColor = true;
+            this.checkBox.CheckedChanged += new System.EventHandler(this.CheckBoxIsNotNull_CheckedChanged);
             // 
             // UserControlTextBox
             // 

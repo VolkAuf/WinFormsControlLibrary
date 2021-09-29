@@ -49,7 +49,7 @@ namespace WinFormsControlLibrary.Main
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.dataGridView);
             this.Name = "UserControlDataGridView";
-            this.Size = new System.Drawing.Size(626, 250);
+            this.Size = new System.Drawing.Size(474, 250);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView)).EndInit();
             this.ResumeLayout(false);
 

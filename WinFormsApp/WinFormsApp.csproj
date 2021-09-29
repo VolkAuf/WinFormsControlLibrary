@@ -6,4 +6,8 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\WinFormsControlLibrary.Main\WinFormsControlLibrary.Main.csproj" />
+  </ItemGroup>
+
 </Project>
