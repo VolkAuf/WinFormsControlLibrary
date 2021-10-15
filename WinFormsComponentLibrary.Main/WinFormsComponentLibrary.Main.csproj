@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\WinFormsComponentLibrary.Main\WinFormsComponentLibrary.Main.csproj" />
+    <PackageReference Include="DocumentFormat.OpenXml" Version="2.13.1" />
   </ItemGroup>
 
 </Project>
